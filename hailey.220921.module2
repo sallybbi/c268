@@ -1,0 +1,128 @@
+    1  pwd
+    2  cd
+    3  cd /
+    4  cd ~
+    5  tmp
+    6  cd ..
+    7  ls
+    8  history
+    9  tmp
+   10  run
+   11  unmae
+   12  uname
+   13  man
+   14  cd ~
+   15  cd/ var
+   16  cd/log
+   17  cd/ var
+   18  cd
+   19  cd/
+   20  pwd
+   21  cd /var/log
+   22  cd ..
+   23  pwd
+   24  ls
+   25  ls -long
+   26  ls -l
+   27  ls -ltr
+   28  cd / 
+   29  cd ~
+   30  cd
+   31  cd ..
+   32  cd .. 
+   33  cd ~ 
+   34  cd .. 
+   35  man
+   36  man ls
+   37  cd /var
+   38  man ls
+   39  ls -S
+   40  ls -Ss
+   41  ls -rSs
+   42  man ls
+   43  uname
+   44  uname -a
+   45  history
+   46  cd
+   47  history Hailey.220916.module2
+   48  history > Hailey.220916.module2
+   49  history > HaileyKang.220916.module2
+   50  ls
+   51  pwd
+   52  cd /var/log
+   53  cd ..
+   54  pwd
+   55  ls 
+   56  ls -l
+   57  ls -ltr
+   58  cd/ 
+   59  cd /
+   60  cd /home
+   61  cd
+   62  cd ..
+   63  man ls
+   64  cd /var
+   65  man ls
+   66  ls  -r-s 
+   67  ls /-r-s
+   68  ls -rs
+   69  ls -rS
+   70  ls -rsS
+   71  man 
+   72  man ls
+   73  man uname
+   74  uname -a
+   75  history > hailey.220919.module2
+   76  history
+   77  cd
+   78  history > hailey.220919.module2
+   79  ls
+   80  git status
+   81  git install
+   82  sudo yum git install
+   83  sudo yum install git
+   84  git config --global user.name "Jane Smith"
+   85  git config --global user.email "kpurest@gmail.com"
+   86  git config --global user.name "Hailey Kang"
+   87  git clone https://github.com/sallybbi/c268.git
+   88  ls
+   89  mv hailey.220919.module2 c268/
+   90  ls
+   91  cd
+   92  cd c268
+   93  ls
+   94  git status
+   95  git add .
+   96  git status
+   97  git command
+   98  git commit
+   99  git commit -m "im pushing the exercise"
+  100  git status
+  101  git push
+  102  rm fixGenerator.sh 2> /dev/null # delete file if exists, ignore error
+  103  wget https://the-software-guild.s3.amazonaws.com/m3-prodsupport/2005-onl/linux/fixGenerator.sh # download file
+  104  sed -i "s/\r//g" fixGenerator.sh # replace special char
+  105  chmod +x fixGenerator.sh # make executable
+  106  ./fixGenerator.sh &
+  107  hisotry
+  108  clear
+  109  cd wiley
+  110  git push
+  111  clear
+  112  pwd
+  113  cd /var/log
+  114  cd ..
+  115  pwd
+  116  ls
+  117  ls -l
+  118  ls -ltr
+  119  cd / 
+  120  cd ~ 
+  121  cd .. 
+  122  man ls
+  123  cd /var
+  124  ls -ltrS
+  125  uname -i
+  126  history > hailey.220921.module2
+  127  cd ~
+  128  history > hailey.220921.module2
